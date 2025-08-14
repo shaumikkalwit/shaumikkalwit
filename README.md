@@ -1,7 +1,7 @@
 <h1 align="center">Shaumik Kalwit</h1>
 
 <p align="center">
-Hi! My name is Shaumik, and I am a computer science major interested in full-stack development and robotics. I'm always working on something new and looking for new opportunities, so feel free to get in touch with me on 
+Hi! My name is Shaumik, and I'm a computer science major interested in full-stack development and robotics. I'm always working on something new and looking for new opportunities, so feel free to get in touch with me on 
 <a href="https://www.linkedin.com/in/shaumikkalwit/">LinkedIn</a>!
 </p>
 
